@@ -46,16 +46,24 @@ class Test < Tiny
 		puts "#{defined? _var5 			or "UNDEFINED"}"
 		puts "#{defined? var6 			or "UNDEFINED"}"
 
+		puts "\n"
+
 		puts "#{defined? Const1 		or "UNDEFINED"}"
 		puts "#{defined? Const2 		or "UNDEFINED"}"
 		puts "#{defined? Const3			or "UNDEFINED"}"
+
+		puts "\n"
 
 		puts "#{defined? method1 		or "UNDEFINED"}"
 		puts "#{defined? method2 		or "UNDEFINED"}"
 		puts "#{defined? Teeny.method3 	or "UNDEFINED"}"
 
+		puts "\n"
+
 		puts "#{defined? method4 		or "UNDEFINED"}"
 		puts "#{defined? super	 		or "UNDEFINED"}"
+
+		puts "\n"
 		
 		puts "#{defined? Teeny	 		or "UNDEFINED"}"
 	end

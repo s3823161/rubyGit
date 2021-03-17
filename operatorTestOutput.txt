@@ -1,0 +1,19 @@
+global-variable
+UNDEFINED
+class variable
+instance-variable
+local-variable
+UNDEFINED
+
+constant
+UNDEFINED
+UNDEFINED
+
+method
+UNDEFINED
+method
+
+method
+super
+
+constant

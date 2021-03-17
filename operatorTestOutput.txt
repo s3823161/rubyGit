@@ -7,7 +7,7 @@ UNDEFINED
 
 constant
 UNDEFINED
-UNDEFINED
+constant
 
 method
 UNDEFINED

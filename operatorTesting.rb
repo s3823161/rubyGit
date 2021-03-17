@@ -20,7 +20,7 @@ class Teeny
 end
 
 class Tiny
-	const3 = 333
+	Const3 = 333
 	def method4
 	end
 
@@ -64,7 +64,7 @@ class Test < Tiny
 		puts "#{defined? super	 		or "UNDEFINED"}"
 
 		puts "\n"
-		
+
 		puts "#{defined? Teeny	 		or "UNDEFINED"}"
 	end
 end
